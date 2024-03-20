@@ -164,17 +164,4 @@ Users can search for specific train details based on various criteria such as tr
 Responsive Design:
 The frontend interface is designed to be responsive, ensuring compatibility and optimal viewing across different devices and screen sizes. This enhances accessibility for users accessing the system from desktops, laptops, tablets, or smartphones.
 
-]
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
