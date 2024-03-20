@@ -12,13 +12,13 @@
 
 **Business Analyst intern - Pentafox**
 - understood the work of an business analyst
-[certificate](([https://www.mdpi.com/1424-8220/22/8/3048](https://credsverse.com/credentials/da130d94-f1af-4aac-9821-e2fec98df6c1)))
+[certificate]((https://www.mdpi.com/1424-8220/22/8/3048](https://credsverse.com/credentials/da130d94-f1af-4aac-9821-e2fec98df6c1)))
 
 
 
 ## Projects
 ### Attendance with face recognition 
-Our Face Recognition Attendance Management System offers a modern and efficient solution for tracking attendance in various settings such as schools, universities, and corporate environments. By harnessing the power of facial recognition technology, our system provides accurate and reliable attendance recording while streamlining administrative tasks.
+Face Recognition Attendance Management System offers a modern and efficient solution for tracking attendance in various settings such as schools, universities, and corporate environments. By harnessing the power of facial recognition technology, our system provides accurate and reliable attendance recording while streamlining administrative tasks.
 
 #### Facial Enrollment:
 Users, such as students or employees, enroll their faces into the system by capturing a series of images from different angles. These images are then used to create a unique facial template for each individual.
