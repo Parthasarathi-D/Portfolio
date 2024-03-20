@@ -12,7 +12,6 @@
 
 **Business Analyst intern - Pentafox**
 - understood the work of an business analyst
-[certificate]((https://www.mdpi.com/1424-8220/22/8/3048](https://credsverse.com/credentials/da130d94-f1af-4aac-9821-e2fec98df6c1)))
 
 
 
